@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-added now
-=======
->>>>>>> refs/remotes/origin/New-branch
+Example for rebase
